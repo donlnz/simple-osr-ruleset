@@ -1,3 +1,3 @@
 ## Table of contents:
 * [[Character Creation]]
-* [[Gameplay]]
+* [[The Game Loop]]
