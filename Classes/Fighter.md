@@ -1,3 +1,6 @@
+The fighter is a warrior trained in battle and in the use of heavy armor and deadly weapons. Fighers include knights, soldiers, guardsmen, barbarian warriors, viking raiders, and any similarly in-your-face violent types.
+
+## Advancement
 | Level | XP  | To Hit | Save |
 | ----- | --: | --: | ------: |
 | 1 | 0 | +1 | 14 |
@@ -11,4 +14,20 @@
 | 9 | 256,000 | +9 | 6 |
 | 10 | 512,000 | +10 | 5 |
 
-HD: **1d8**
+## General
+***HD.*** **1d8**.
+
+***Weapons and Armor Restrictions.*** No restrictions—fighters can use all types of weapons and armor.
+
+***Saving Throw Bonus.*** +2 when saving against Death and Poison.
+
+## Class Abilities
+***Outmatched Opponent.*** Against opponents whose level (number of HD) is lower than your fighter level, gain an additional attack per combat round.
+
+***Batting at Flies.*** Against opponents with 1 or fewer HD, attack once per your fighter level every combat round.
+
+***Lethal Combination.*** On a critical hit, gain an additional attack.
+
+***Weathered Veteran.*** At fighter level 7 and above, gain an additional attack per combat round.
+
+***Weapon Mastery.*** Choose (or roll for) a weapon type. You gain +1 to hit and +1 damage when attacking with any weapon of that type. Mastery in shields provides +1 AC while wielding a shield.
