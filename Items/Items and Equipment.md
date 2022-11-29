@@ -4,11 +4,13 @@
 | ---------- | :-----------------: | --- |
 | Heavy | 3 | Two-handed swords, two-handed maces, two-handed axes, polearms, longbows, heavy crossbows, plate mail armor |
 | Normal | 2 | Longswords, one-handed maces, one-handed axes, spears, light crossbows, ring mail armor |
-| Light | 1 | Slings, daggers, shortswords, leather armor |
-| Miniscule |  Varies* | Arrows, crossbow bolts, pebblestones, coins, gemstones, food rations, torches, oil flasks |
+| Light | 1 | Slings, daggers, shortswords, leather armor, torches |
+| Small |  1 per 3 | Food rations, potions, oil flasks, filled water skins |
+| Tiny | 1 per 5 | Arrows, crossbow bolts, pebblestones |
+| Miniscule | 1 per 10 | coins, gemstones, pebblestones |
 
 ### Miniscule Items
-Miniscule items come in two different varieties: 
+Miniscule items come in two different varieties: countable items and usage die items. A countable item (e.g. coins) has no weight by itself, but uses up 1 capacity slot per 100 units. A usage die 
 
 ## Melee Weapons
 
@@ -41,7 +43,7 @@ Miniscule items come in two different varieties:
 ## Armor and Shields
 | Armor Type | Price | Weight | AC |
 | - | - | - | -: |
-| No Armor | 0 gp | - | 10 |
+| No Armor | 0 gp | - | 9 |
 | Leather Armor | 15 gp | Light (1) | +2 |
 | Ring Mail | 30 gp | Normal (2) | +3 |
 | Chain Mail | 60 gp | Normal (2) | +4 |
