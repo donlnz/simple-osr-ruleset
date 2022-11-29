@@ -1,4 +1,4 @@
-1. Roll **3d6** per Character Ability, in order.
+1. Roll **3d6** per Character Ability, in order. Optionally: Choose two favored character abilities, and two unfavored character abilities. For a favored ability, roll 4d6 and remove the lowest result. For an unfavored ability, roll 4d6 and remove the highest result.
 
 | Ability  | Bonus |
 | -------- | -------- |
