@@ -33,7 +33,7 @@ While any character can be assumed to have some amount of aptitude at Basic Task
 
 The ✝-symbol indicates that the specialization needs to be further specified, i.e., that the player must choose a specific craft (blacksmithing, leatherworking, etc.), or a specific instrument (Harp, Lyre, etc.) to be specialized in.
 
-The main purpose of specializations is to represent skills and abilities that the characters can learn and improve on over time. For example, a character deeply interested in bonaty may seek out teachers and literature that can help them improve their botanic knowledge (resulting, for instance, in an improved ability to identify wild plants).
+The main purpose of specializations is to represent skills and abilities that the characters can learn and improve on over time. For example, a character deeply interested in botany may seek out teachers and literature that can help them improve their botanic knowledge (resulting, for instance, in an improved ability to identify wild plants).
 
 Like Basic Tasks, some specializations (e.g. Bartering and Cooking) are accessible even to untrained characters, but at a penalty. A character not trained in cooking is still able to attempt to prepare a meal, but with a decreased chance of success. The Untrained column in the list of specializations provides the penalty applied to any roll made by a character not trained in the specified skill. If no penalty is provided, that means a character cannot attempt the task without training. The character's Ability Bonuses apply (determined by the Character Ability column) regardless of whether the character is trained or untrained in the specialization skill. If the character is trained, the Untrained penalty is ignored.
 
