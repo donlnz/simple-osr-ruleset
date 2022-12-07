@@ -1,16 +1,13 @@
-## Item Weight
+The amount of gear a character can carry is determined by their STR score. Specifically, a character can carry 2 x STR "inventory slots" worth of items. Each item is associated with a weight type (heavy, normal, light, small, tiny or miniscule), and takes up a corresponding amount of inventory slots.
 
 | Item Size | Capacity Slots | Examples |
 | ---------- | :-----------------: | --- |
-| Heavy | 3 | Two-handed swords, two-handed maces, two-handed axes, polearms, longbows, heavy crossbows, plate mail armor |
+| Heavy | 4 | Two-handed swords, two-handed maces, two-handed axes, polearms, longbows, heavy crossbows, plate mail armor |
 | Normal | 2 | Longswords, one-handed maces, one-handed axes, spears, light crossbows, ring mail armor |
 | Light | 1 | Slings, daggers, shortswords, leather armor, torches |
 | Small |  1 per 3 | Food rations, potions, oil flasks, filled water skins |
 | Tiny | 1 per 5 | Arrows, crossbow bolts, pebblestones |
 | Miniscule | 1 per 10 | coins, gemstones, pebblestones |
-
-### Miniscule Items
-Miniscule items come in two different varieties: countable items and usage die items. A countable item (e.g. coins) has no weight by itself, but uses up 1 capacity slot per 100 units. A usage die 
 
 ## Melee Weapons
 
@@ -28,9 +25,9 @@ Miniscule items come in two different varieties: countable items and usage die i
 | Morning Star | 6 gp | Normal (2) | 1d6 |
 | Warhammer | 5 gp | Normal (2) | 1d6 |
 | Longsword | 10 gp | Normal (2) | 1d4+2 |
-| Battle Axe (two-handed) | 7 gp | Heavy (3) | 1d10-1 |
-| Great Sword (two-handed) | 15 gp | Heavy (3) | 1d8 |
-| Polearm (two-handed) | 8 gp | Heavy (3) | 1d6+1 |
+| Battle Axe (two-handed) | 7 gp | Heavy (4) | 1d10-1 |
+| Great Sword (two-handed) | 15 gp | Heavy (4) | 1d8 |
+| Polearm (two-handed) | 8 gp | Heavy (4) | 1d6+1 |
 
 \* 1d8-1 if wielded as a two-handed weapon.
 
@@ -47,7 +44,7 @@ Miniscule items come in two different varieties: countable items and usage die i
 | Leather Armor | 15 gp | Light (1) | +2 |
 | Ring Mail | 30 gp | Normal (2) | +3 |
 | Chain Mail | 60 gp | Normal (2) | +4 |
-| Scale Mail | 120 gp | Heavy (3) | +5 |
-| Plate Mail | 200 gp | Heavy (3) | +6 |
+| Scale Mail | 120 gp | Heavy (4) | +5 |
+| Plate Mail | 200 gp | Heavy (4) | +6 |
 | Helmet | 10 gp | Normal (2) | +1 |
 | Shield | 10 gp | Normal (2) | +1 |
