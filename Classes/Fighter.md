@@ -30,4 +30,4 @@ The fighter is a warrior trained in battle and in the use of heavy armor and dea
 
 ***Weathered Veteran.*** At fighter level 7 and above, gain an additional attack per combat round.
 
-***Weapon Mastery.*** Choose (or roll for) a weapon type. You gain +1 to hit and +1 damage when attacking with any weapon of that type. Mastery in shields provides +1 AC while wielding a shield.
+***Weapon Mastery.*** Choose a weapon type (or shield). You gain +1 to hit and +1 damage when attacking with any weapon of that type. Mastery in shields provides +1 AC while wielding a shield.
