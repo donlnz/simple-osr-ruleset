@@ -11,7 +11,7 @@ Outdoor travel time is abstracted into **Watches**, with one watch extending for
 
 **Watches as Time**. The watch timescale is used to compartmentalize many of the party's actions during the day (and night), with most actions taking time measured in a a single watch (or, several watches). For instance, the party can spend a watch traveling, foraging for food, resting, searching through an area, or, literally, taking watch over the party's camp.
 
-**Random Events**. In addition, watches are used to determine the frequency of random events the party may encounter (wandering bandits, traveling merchants, monster lairs, etc.). Each watch, there is a 1-in-6 chance of encountering a random event (on average, one per day).
+**Random Events**. In addition, watches are used to determine the frequency of random events the party may encounter (wandering bandits, traveling merchants, monster lairs, etc.). Each watch, there is a 1-in-6 chance of encountering a random event (on average, twice per day).
 
 ## Outdoor Travel
 
@@ -31,7 +31,7 @@ The world is organized on a hexagonal grid, with each unit-area on the map (_hex
 > *The Talented Trio*, a small band of adventurers, are traveling towards their next stop: an abandoned hunter's cabin located 8 leagues (40 km) to the northwest (according to the innkeep in Secomber, the small village the party just departed from). The well-rested party members are traveling through the woods towards the hunters cabin on foot, at a pace of 2 leagues per watch, meaning it will take them 4 watches (16 hours) to reach their goal. Having set out from Secomber in the morning, they reach the cabin at midnight, and had a chance of encountering 4 random events during their trip. Once the party has reached the hunter's cabin, they are done traveling for the day. They decide to spend a watch scouting the area before setting up camp in the hunter's cabin at dusk (with a chance of another random encounter). Finally, the party members decide on a watch rotation before settling in, since they want at least one party member to be on the lookout at all times during the night, as there are 2 more chances of random encounters during their 8 hour rest.
 
 ## Food and Water
-Characters require 1 day's worth of rations and 1 liter of water per day to sustain themselves, otherwise, wihle resting:
+Characters require 1 day's worth of water and food rations per day to sustain themselves, otherwise, wihle resting:
 * They are unable to recover HP.
 * They lose 1 HP if they have not eaten.
 * They lose **1d4** HP if they have not had enough water.
