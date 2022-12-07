@@ -1,28 +1,14 @@
-Each character possesses a set of basic **Character Abilities**: Strength (STR), Intelligence (INT), Wisdom (WIS), Dexterity (DEX), Constitution (CON), and Charisma (CHR). These describe the character's aptitude at solving basic tasks such as moving heavy objects, or climbing ropes.
-
-Attempting a **Basic Task** (a task that any person could reasonably attempt without any special training) requires an **Ability Test** that decides the outcome (success or failure).
-
-Ability Tests are normally determined in one of three ways:
+Each character possesses a set of basic character abilities: Strength (STR), Intelligence (INT), Wisdom (WIS), Dexterity (DEX), Constitution (CON), and Charisma (CHR). These describe the character's aptitude at solving basic tasks such as moving heavy objects, or climbing ropes. Attempting any task requires an ability test that decides the outcome (success or failure). Ability tests are normally determined in one of three ways:
 1. If the task attempted is consirered trivial, success is automatic.
 2. If the task attempted is consirered impossible, failure is automatic.
-3. If the task attempted is considered of average difficulty, a d20 die roll determines the outcome.
+3. If the task attempted is considered possible but not guaranteed, a 1d20 die roll determines the outcome. A result of 11 or higher means success, and any lower result is a failure.
+ 
+When rolling 1d20 to determine an outcome the character's aptitude at the task, as well as external circumstances, may incur bonuses or penalties (collectively called modifiers) to the roll.
 
-In case 3, the GM determines which character ability best matches the task attempted; e.g., lifting a heavy portcullis likely requires strength (STR) and dodging a falling boulder likely requires dexterity (DEX). In these cases, the player will be asked to roll a 20-sided die (1d20). A roll showing a result less than (or equal to) the player character's relevant ability score results in a success, whereas a die showing a number greater than the character's abilty score results in a failure. **Example:** Grognard the barbarian (STR 17) wants to throw his backpack across a 10-meters-wide pit. The GM determines that this is a task of average difficulty, and Grognard's player rolls 1d20. With a result of 12 (less than or equal to Grognard's strength score of 17), Grognard succeeds in his task.
+## Character Ability Modifiers
+An ability test is generally associated with one of the six character abilities (determined by the GM); e.g., lifting a heavy portcullis likely requires strength (STR) and dodging a falling boulder likely requires dexterity (DEX). When rolling 1d20 to determine the outcome of an attempted task add the approriate modifier (positive bonus or negative penalty) to the die result. **Example:** Grognard the barbarian wishes to throw his backpack across a 10-meters-wide pit. The GM determines that Grognard's success is not guarateed, but definitely possible. The GM additionally decides that this is a STR task, mean Grognard's STR score of 17 will give him a +2 bonus to the die roll. Grognard's player rolls 1d20 with a result of 10. Adding Grognard's STR bonus the final result comes out to 10 + 2 = 12, meaning Grognard just barely manages to land his backpack on the other side of the pit.
 
-If the task attempted is considered particularly easy or difficult, the GM might additionally announce a specific penalty or bonus to the roll. For example, flipping a tavern table (STR) might be accompanied with a small bonus (e.g. -5 to the 1d20 roll) if performed during a testosterone-filled tavern brawl where the player character is particularly enraged, whereas scaling the outer wall of a guard tower (DEX) might incur a heavy penalty (e.g. +10 to the 1d20 roll) if the tower is constructed from smooth stone rather than bricks.
-
-| Difficulty | Typical Bonus (-to 1d20 roll) |
-|:-------------:|:-------------:|
-|Trivial | Automatic Success |
-|Easy | -5 |
-|Average | 0 |
-|Difficult | +5 |
-|Very difficult | +10 |
-|Impossible | Automatic Failure |
-
-In addition to determining the difficulty, the GM also determines which of the six Character Abilities that is relevant for the task. For example, moving a moderately heavy bolder might require an Average STR test, whereas balancing on a thin beam might require a Very Difficult DEX test. The character's Character Abilities provide bonuses (or penalties) that are added to (or subtracted from) the **1d20** roll made by the player, according to the chart on the next page.
-
-##### Ability Bonuses
+### Ability Bonuses
 | Ability Score | Ability Modifier |
 | :-------------: | :-------------: |
 | 3 | - 3 | 
@@ -34,6 +20,24 @@ In addition to determining the difficulty, the GM also determines which of the s
 | 18 | +3 |
 | 19 | +4 |
 
-### Death
+## Difficulty Modifiers
+If the task attempted is considered particularly easy or difficult, the GM might additionally announce a specific penalty or bonus to the roll. For example, jumping over a 0.5 meter wide pit might be relatively easy (giving a +5 bonus to the roll) whereas jumping over a 3 meter wide pit might be very difficult (giving a -10 penalty to the roll).
 
-A character that reaches 0 health points is knocked down and incapacitated, and cannot take any actions during combat. If a character reaches -10 health points, they die.
+| Difficulty | Modifier to 1d20 roll |
+|:-------------:|:-------------:|
+|Trivial | Automatic Success |
+|Very Easy | +10 |
+|Easy | +5 |
+|Average | 0 |
+|Difficult | -5 |
+|Very difficult | -10 |
+|Impossible | Automatic Failure |
+
+## Specializations and Proficiencies
+
+## Assisting
+
+## Advantage and Disadvantage
+
+## Natural 1s and Natural 20s
+If, during an ability test, the rolled d20 shows a 1, any modifiers are ignored. This result is a so-called "natural 1", which always leads to the worst possible outcome (but not necessarily an automatic failure). Similarly, a rolled 20 (a "natural 20") results in the best possible outcome (but not necessarily an automatic success).
