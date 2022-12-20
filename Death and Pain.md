@@ -5,9 +5,10 @@ Characters generally die in one of two ways:
 ## Fatigue
 Fatigue is a catch-all system for representing exhaustion, starvation, dehydration and certain effects of disease or injury. Characters gain fatigue e.g. through exherting themselves in a forced march or eating or drinking sufficiently.
 
-* When performing a forced march (moving up to 2 additional hexes in a day), characters must perform a CON ability test for each extra hex traversed. For each failed CON check, a character gains 1 level of fatigue. A character cannot begin a forced march if they already have any levels of fatigue.
+* When performing a forced march (moving up to 2 additional hexes in a day), characters must perform a FORT saving throw for each extra hex traversed. For each failed saving throw, a character gains 1 level of fatigue. A character cannot begin a forced march if they already have any levels of fatigue.
 * If a character does not eat food in a day, they gain X levels of fatigue, where X is the number of days since they last ate. For example, not eating for one day incurs 1 level of fatigue, whereas not eating for two consecutive days incurs 3 levels of fatigue (1 level of fatigue for the first day, and 2 levels for the second day).
 * If a character does not drink water in a day, they gain 2X levels of fatigue, where X is the number of days since they last drank water.
+* If a character does not sleep for 8 hours (2 watches) in a night, they gain 1 level of fatigue per 4 hours of missed sleep.
 
 A character with any levels of fatigue:
 * Cannot begin a forced march.
@@ -15,7 +16,7 @@ A character with any levels of fatigue:
 
 A character with 5+ levels of fatigue:
 * Is considered [[Death and Pain#Encumberance|encumbered]].
-* Has [[Ability Tests#Advantage and Disadvantage|disadvantage]] on all WIS and INT ability tests.
+* Has [[Ability Tests#Advantage and Disadvantage|disadvantage]] on all ability tests and saving throws.
 
 A character with 10+ levels of fatigue:
 * Is considered unconcious until fully recovered from fatigue.
@@ -26,6 +27,9 @@ A character with 20+ levels of fatigue:
 Characters can recover from fatigue by resting (1 level healed per full night's rest), by ingesting certain potions or drugs, or though magical means.
 
 ## Health
+* A character that falls to 0 hp becomes unconcious and is bleeding out at a rate of 1 hp per turn.
+* If a character reaches -6 hp they are likely to sustain some type of permanent injury.
+* If a character reaches -10 hp, they are dead.
 
 
 ## Encumberance

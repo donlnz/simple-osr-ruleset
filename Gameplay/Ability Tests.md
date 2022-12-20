@@ -37,7 +37,10 @@ If the task attempted is considered particularly easy or difficult, the GM might
 
 ## Assisting
 
+## Saving Throws
+
 ## Advantage and Disadvantage
+Certain circumstances may lead to the character receiving advantage or disadvantage on an ability test or saving throw. Advantage means the character's player rolls 2d20 and chooses the better result, whereas disadvantage means rolling 2d20 and choosing the worse result.
 
 ## Natural 1s and Natural 20s
 If, during an ability test, the rolled d20 shows a 1, any modifiers are ignored. This result is a so-called "natural 1", which always leads to the worst possible outcome (but not necessarily an automatic failure). Similarly, a rolled 20 (a "natural 20") results in the best possible outcome (but not necessarily an automatic success).
