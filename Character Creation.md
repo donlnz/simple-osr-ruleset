@@ -3,11 +3,11 @@
 | Ability  | Bonus |
 | -------- | -------- |
 | **STR** | Melee hit chance, melee attack damage, carrying capacity, chance to open doors.|
-| **DEX** | AC, ranged hit chance, stealth chance.|
-| **CON** | HP, healing, saving throws against death and poison.|
-| **INT** | Learning (1 additional language, crafting skill or knowledge skill per bonus level).
-| **WIS** | Saving throws against magic.
-| **CHR** | Reaction rolls, hireling loyalty.
+| **DEX** | AC, ranged hit chance, reflex saving throw. |
+| **CON** | HP, healing, fortitude saving throw.|
+| **INT** | 1 additional language per bonus level. Literate at bonus level 0 and above. |
+| **WIS** | Will saving throw. |
+| **CHR** | Reaction rolls, hireling loyalty. |
 
 | Ability Score | Ability Modifier |
 | :-------------: | :-------------: |
@@ -52,6 +52,6 @@
 | Melee Damage Bonus | Add your STR Bonus to any melee damage rolls. |
 | Carrying Capacity (Slots) | 2 x STR score.
 | Movement Speed | TBD |
-| Saving Throws | Class/level specific saving throws + racial bonus(es) + CON (against death and poison) or WIS (against magic). |
+| Saving Throws | Class/level specific saving throws + racial bonus(es) + CON (fortitude), DEX (reflex) or WIS (will). |
 
-Classes: [[Fighter]], [[Thief]], [[Cleric]], [[Wizard]]
+Classes: [[Fighter]], [[Scoundrel]], [[Cleric]], [[Alchemist]], [[Ranger]]
