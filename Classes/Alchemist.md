@@ -1,26 +1,32 @@
-| Level | XP  | To Hit | Save | A1 | A2 | A3 | A4 | A5 |
-| ----- | --: | --: | ------: | :-: | :-: | :-: | :-: | :-: |
-| 1 | 0 | +0 | 15 | 1 | - | - | - | - | 
-| 2 | 2,500 | +0 | 14 | 2 | - | - | - | - |
-| 3 | 5,000 | +0 | 13 | 3 | 1 |  - | - | - | 
-| 4 | 10,000 | +0 | 12 | 4 | 2 |  - | - | - |
-| 5 | 20,000 | +1 | 11 | 4 | 2 | 1 |  - | - |
-| 6 | 40,000 | +1 | 10 | 4 | 2 | 2 |  - | - |
-| 7 | 80,000 | +1 | 9 | 4 | 3 | 2 | 1 |  - | 
-| 8 | 160,000 | +1 | 8 | 4 | 3 | 3 | 2 |  - |
-| 9 | 320,000 | +1 | 7 | 4 | 4 | 3 | 2 | 1 | 
-| 10 | 640,000 | +2 | 6 | 4 | 4 | 3 | 2 | 2 |
+| Level | XP  | To Hit | Save | Biology |A1 | A2 | A3 | A4 | A5 |
+| ----- | --: | --: | ------: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 1 | 0 | +1 | 15 | 1 | 1 | - | - | - | - | 
+| 2 | 2,500 | +1 | 14 | 1 | 2 | - | - | - | - |
+| 3 | 5,000 | +1 | 13 | 1 | 2 | 1 |  - | - | - | 
+| 4 | 10,000 | +1 | 12 | 2 | 2 | 2 |  - | - | - |
+| 5 | 20,000 | +1 | 11 | 2 | 2 | 2 | 1 |  - | - |
+| 6 | 40,000 | +3 | 10 | 2 | 2 | 2 | 2 |  - | - |
+| 7 | 80,000 | +3 | 9 | 3 | 3 | 2 | 2 | 1 |  - | 
+| 8 | 150,000 | +3 | 8 | 3 | 3 | 3 | 2 | 2 |  - |
+| 9 | 300,000 | +3 | 7 | 4 | 3 | 3 | 3 | 2 | 1 | 
+| 10 | 450,000 | +3 | 6 | 5 | 3 | 3 | 3 | 3 | 2 |
 
 ## General
 ***HD.*** 1d4.
+
+***Weapons and Armor Restrictions.***
+
+***Saving Throw Bonus.***
 
 ## Class Abilities
 ***Alchemical Knowledge.***
 
 Usage dice
 
-***Botanist.*** The Alchemist rolls twice while foraging. For each die, the alchemist announces whether they are foraging for food and water, or for alchemically viable flora.
+***Botanist.*** While foraging, the Alchemist can choose to search for alchemically viable flora rather than food. While doing so, they use their Biology skill to determine success.
 
-***Zoologist.*** The Alchemist has a 1-in-6 chance of recognizing a fiend or monstrosity from their years of study. If successful, the Alchemist 
+***Cryptozoologist.*** The Alchemist has a chance of recognizing a fiend or monstrosity from their years of study. The chance of success is determined by the Alchemist's Biology skill. If successful, the alchemist may recall a particular detail about the foe (e.g., particular strenghts of weaknesses) that may help them overcome them.
+
+***Dissection***. The Alchemist can use their Biology skill to attempt to recover alchemically viable matter from a defeated foe.
 
 ***Radical Experimenter.*** Spend ingredient Ud to research combinations, 2 weeks of uninterrupted research for x% chance per Ud

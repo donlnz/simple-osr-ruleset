@@ -40,7 +40,7 @@ The amount of gear a character can carry is determined by their STR score. Speci
 ## Armor and Shields
 | Armor Type | Price | Weight | AC |
 | - | - | - | -: |
-| No Armor | 0 gp | - | 9 |
+| No Armor | 0 gp | - | 11 |
 | Leather Armor | 15 gp | Light (1) | +2 |
 | Ring Mail | 30 gp | Normal (2) | +3 |
 | Chain Mail | 60 gp | Normal (2) | +4 |
