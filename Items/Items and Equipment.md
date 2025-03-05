@@ -5,8 +5,8 @@ The amount of gear a character can carry is determined by their STR score. Speci
 | Heavy     |       4        | Two-handed swords, two-handed maces, two-handed axes, polearms, longbows, heavy crossbows, plate mail armor |
 | Normal    |       2        | Longswords, one-handed maces, one-handed axes, spears, light crossbows, ring mail armor                     |
 | Light     |       1        | Slings, daggers, shortswords, leather armor, torches, food rations, filled water skins                      |
-| Small     |    1 per 5     | Potions, oil flasks                                                                                         |
-| Tiny      |    1 per 10    | Arrows, crossbow bolts, pebblestones                                                                        |
+| Small     |    1 per 5     | Potions, oil flasks, empty water skins                                                                      |
+| Tiny      |    1 per 10    | Arrows, crossbow bolts                                                                                      |
 | Miniscule |    1 per 50    | Coins, gemstones, pebble stones                                                                             |
 
 ## Melee Weapons

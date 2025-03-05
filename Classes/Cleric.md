@@ -17,7 +17,7 @@
 
 ***Weapons and Armor Restrictions.***
 
-***Saving Throw Bonus.***
+***Saving Throw Bonus.*** +2 to will saving throws.
 
 ## Class Abilities
 ***Divine Magic.***

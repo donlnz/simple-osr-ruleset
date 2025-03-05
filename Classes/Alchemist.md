@@ -16,7 +16,7 @@
 
 ***Weapons and Armor Restrictions.***
 
-***Saving Throw Bonus.***
+***Saving Throw Bonus.*** +1 to will and +1 to fortitude saving throws.
 
 ## Class Abilities
 ***Alchemical Knowledge.***
@@ -25,7 +25,7 @@ Usage dice
 
 ***Botanist.*** While foraging, the Alchemist can choose to search for alchemically viable flora rather than food. While doing so, they use their Biology skill to determine success.
 
-***Cryptozoologist.*** The Alchemist has a chance of recognizing a fiend or monstrosity from their years of study. The chance of success is determined by the Alchemist's Biology skill. If successful, the alchemist may recall a particular detail about the foe (e.g., particular strenghts of weaknesses) that may help them overcome them.
+***Cryptozoologist.*** The Alchemist has a chance of recognizing a fiend or monstrosity from their years of study. The chance of success is determined by the Alchemist's Biology skill. If successful, the alchemist may recall a particular detail about the foe (e.g., particular strengths of weaknesses) that may help them overcome them.
 
 ***Dissection***. The Alchemist can use their Biology skill to attempt to recover alchemically viable matter from a defeated foe.
 
