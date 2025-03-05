@@ -12,7 +12,6 @@
 **Watches as Time**. The watch timescale is used to compartmentalize many of the party's actions during the day (and night), with most actions taking time measured in a a single watch (or, several watches). For instance, the party can spend a watch traveling, foraging for food, resting, searching through an area, or, literally, taking watch over the party's camp.
 
 **Random Events**. In addition, watches are used to determine the frequency of random events the party may encounter (wandering bandits, traveling merchants, monster lairs, etc.). Each watch, there is a 1-in-6 chance of encountering a random event (on average, twice per day).
-
 ## Outdoor Travel
 
 The world is organized on a hexagonal grid, with each unit-area on the map (_hex_) spanning 2 leagues (10 km) across—a distance an average unencumbered traveler might be able to traverse in around two hours under ideal conditions. Assuming that adventurers frequently travel off the beaten path (in dense forests, swamps, mountainous regions, etc.) carrying heavy equipment, the default travelling speed is assumed to be slower: a surprisingly convenient **1 hex per watch**. A party looking to avoid overexertion can spend 2 watches (8 hours) traveling per day. Characters can perform a forced march, travelling up to 2 additional hexes in a day, at the risk of accumulating [[Death and Pain#Fatigue]].

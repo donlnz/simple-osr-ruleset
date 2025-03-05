@@ -3,7 +3,6 @@ While exploring dungeons and similar dangerous indoor locales, the time scale is
 **Movement Speed**. Normal movement speed through an unexplored dungeon is 36 meters (24 squares) per turn---this might seem slow, but accounts for the fact that the adventurers are assumed to be treading carefully while mapping out the path traveled. Encumbrance and injuries affect movement speed just like with outdoor travel. While traversing previously explored parts of a dungeon, characters move at triple speed.
 
 **While in Combat**. In combat, time is measured by 10 second _combat rounds_. A character is normally able to move 12 meters (8 squares) per combat round.
-
 ## Dungeon Dangers
 
 **Random Events**. Much like the outdoors, dungeons often house wandering monsters and other hazards. While exploring a dungeon, random events have a 1-in-6 chance to occur every 3 turns.

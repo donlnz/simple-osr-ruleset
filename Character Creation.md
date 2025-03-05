@@ -39,19 +39,19 @@
 
 ***Carrying Capacity.*** You have a number of inventory slots equal to twice your STR score (note: not your STR bonus). Light items (e.g., leather armor, daggers and slings) use up one carrying slot; normal size items (e.g., longswords, one-handed maces, light crossbows and ring mail armor) use up two carrying slots; and, heavy items (e.g., two-handed melee swords and axes, longbows and plate mail armor) use up four carrying slots. See [[Items and Equipment]] for more information on item sizes.
 
-***Movement Speed.*** The world is simple, and every player character moves at the same speed: 20 km per 4 hours in the wilderness (under the assumption that the character is carrying a substantial load of equipment) and 5 meters per minute in a dungeon (under the assumption that the character is trying to stay quiet, and is actively looking for traps).
+***Movement Speed.*** Every player character moves at the same speed: 10 km per 4 hours in the wilderness (under the assumption that the character is carrying a substantial load of equipment) and 5 meters per minute in a dungeon (under the assumption that the character is trying to stay quiet, and is actively looking for traps).
 
 ***Saving Throws.*** Determined by class/level and race combination.
 
 ### Summary
-| Attribute | Value |
-| --------- | ----- |
-| HP (maximum) | Add HD + CON bonus every level. |
-| AC | 9 + DEX bonus + armor bonus. |
-| Hit Chance Bonus | Add class/level specific bonus + STR bonus (melee) or DEX bonus (ranged) to your attack rolls.
-| Melee Damage Bonus | Add your STR Bonus to any melee damage rolls. |
-| Carrying Capacity (Slots) | 2 x STR score.
-| Movement Speed | TBD |
-| Saving Throws | Class/level specific saving throws + racial bonus(es) + CON (fortitude), DEX (reflex) or WIS (will). |
+| Attribute                 | Value                                                                                                |
+| ------------------------- | ---------------------------------------------------------------------------------------------------- |
+| HP (maximum)              | Add HD + CON bonus every level.                                                                      |
+| AC                        | 9 + DEX bonus + armor bonus.                                                                         |
+| Hit Chance Bonus          | Add class/level specific bonus + STR bonus (melee) or DEX bonus (ranged) to your attack rolls.       |
+| Melee Damage Bonus        | Add your STR Bonus to any melee damage rolls.                                                        |
+| Carrying Capacity (Slots) | 2 x STR score.                                                                                       |
+| Movement Speed            | 2.5 km per hour (overland) or 5 meters per minute (dungeon).                                         |
+| Saving Throws             | Class/level specific saving throws + racial bonus(es) + CON (fortitude), DEX (reflex) or WIS (will). |
 
 Classes: [[Fighter]], [[Scoundrel]], [[Cleric]], [[Alchemist]], [[Ranger]]
