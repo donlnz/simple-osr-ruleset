@@ -1,12 +1,12 @@
 Each character possesses a set of basic character abilities: Strength (STR), Intelligence (INT), Wisdom (WIS), Dexterity (DEX), Constitution (CON), and Charisma (CHR). These describe the character's aptitude at solving basic tasks such as moving heavy objects, or climbing ropes. Attempting any task requires an ability test that decides the outcome (success or failure). Ability tests are normally determined in one of three ways:
-1. If the task attempted is consirered trivial, success is automatic.
-2. If the task attempted is consirered impossible, failure is automatic.
+1. If the task attempted is considered trivial, success is automatic.
+2. If the task attempted is considered impossible, failure is automatic.
 3. If the task attempted is considered possible but not guaranteed, a 1d20 die roll determines the outcome. A result of 11 or higher means success, and any lower result is a failure.
  
 When rolling 1d20 to determine an outcome the character's aptitude at the task, as well as external circumstances, may incur bonuses or penalties (collectively called modifiers) to the roll.
 
 ## Character Ability Modifiers
-An ability test is generally associated with one of the six character abilities (determined by the GM); e.g., lifting a heavy portcullis likely requires strength (STR) and dodging a falling boulder likely requires dexterity (DEX). When rolling 1d20 to determine the outcome of an attempted task add the approriate modifier (positive bonus or negative penalty) to the die result. **Example:** Grognard the barbarian wishes to throw his backpack across a 10-meters-wide pit. The GM determines that Grognard's success is not guarateed, but definitely possible. The GM additionally decides that this is a STR task, mean Grognard's STR score of 17 will give him a +2 bonus to the die roll. Grognard's player rolls 1d20 with a result of 10. Adding Grognard's STR bonus the final result comes out to 10 + 2 = 12, meaning Grognard just barely manages to land his backpack on the other side of the pit.
+An ability test is generally associated with one of the six character abilities (determined by the GM); e.g., lifting a heavy portcullis likely requires strength (STR) and dodging a falling boulder likely requires dexterity (DEX). When rolling 1d20 to determine the outcome of an attempted task add the appropriate modifier (positive bonus or negative penalty) to the die result. **Example:** Grognard the barbarian wishes to throw his backpack across a 10-meters-wide pit. The GM determines that Grognard's success is not guaranteed, but definitely possible. The GM additionally decides that this is a STR task, mean Grognard's STR score of 17 will give him a +2 bonus to the die roll. Grognard's player rolls 1d20 with a result of 10. Adding Grognard's STR bonus the final result comes out to 10 + 2 = 12, meaning Grognard just barely manages to land his backpack on the other side of the pit.
 
 ### Ability Bonuses
 | Ability Score | Ability Modifier |

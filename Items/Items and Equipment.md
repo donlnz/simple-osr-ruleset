@@ -1,13 +1,13 @@
-The amount of gear a character can carry is determined by their STR score. Specifically, a character can carry 2 x STR "inventory slots" worth of items. Each item is associated with a weight type (heavy, normal, light, small, tiny or miniscule), and takes up a corresponding amount of inventory slots.
+The amount of gear a character can carry is determined by their STR score. Specifically, a character can carry 2 x STR "inventory slots" worth of items. Each item is associated with a weight type (heavy, normal, light, small, tiny or minuscule), and takes up a corresponding amount of inventory slots.
 
-| Item Size | Capacity Slots | Examples |
-| ---------- | :-----------------: | --- |
-| Heavy | 4 | Two-handed swords, two-handed maces, two-handed axes, polearms, longbows, heavy crossbows, plate mail armor |
-| Normal | 2 | Longswords, one-handed maces, one-handed axes, spears, light crossbows, ring mail armor |
-| Light | 1 | Slings, daggers, shortswords, leather armor, torches |
-| Small |  1 per 3 | Food rations, potions, oil flasks, filled water skins |
-| Tiny | 1 per 5 | Arrows, crossbow bolts, pebblestones |
-| Miniscule | 1 per 10 | coins, gemstones, pebblestones |
+| Item Size | Capacity Slots | Examples                                                                                                    |
+| --------- | :------------: | ----------------------------------------------------------------------------------------------------------- |
+| Heavy     |       4        | Two-handed swords, two-handed maces, two-handed axes, polearms, longbows, heavy crossbows, plate mail armor |
+| Normal    |       2        | Longswords, one-handed maces, one-handed axes, spears, light crossbows, ring mail armor                     |
+| Light     |       1        | Slings, daggers, shortswords, leather armor, torches, food rations, filled water skins                      |
+| Small     |    1 per 5     | Potions, oil flasks                                                                                         |
+| Tiny      |    1 per 10    | Arrows, crossbow bolts, pebblestones                                                                        |
+| Miniscule |    1 per 50    | Coins, gemstones, pebble stones                                                                             |
 
 ## Melee Weapons
 

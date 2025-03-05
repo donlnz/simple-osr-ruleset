@@ -27,10 +27,10 @@ A character with 20+ levels of fatigue:
 Characters can recover from fatigue by resting (1 level healed per full night's rest), by ingesting certain potions or drugs, or though magical means.
 
 ## Health
-* A character that falls to 0 hp becomes unconcious and is bleeding out at a rate of 1 hp per turn.
+* A character that falls to 0 hp becomes unconscious and is bleeding out at a rate of 1 hp per turn.
 * If a character reaches -6 hp they are likely to sustain some type of permanent injury.
 * If a character reaches -10 hp, they are dead.
 
 
-## Encumberance
+## Encumbrance
 If a character is carrying more than their STR score allows (more than 2 x STR up to 4 x STR), they are considered encumbered and will have difficulty moving. In addition, they will perform all attack rolls, DEX ability tests and STR ability tests with [[Ability Tests#Advantage and Disadvantage|disadvantage]]. If a character is carrying more than 4 x STR, they are considered immobile.

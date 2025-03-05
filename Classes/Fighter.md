@@ -1,4 +1,4 @@
-The Fighter is a warrior trained in battle and in the use of heavy armor and deadly weapons. Fighers include knights, soldiers, guardsmen, barbarian warriors, viking raiders, and any similarly in-your-face violent types.
+The Fighter is a warrior trained in battle and in the use of heavy armor and deadly weapons. Fighters include knights, soldiers, guardsmen, barbarian warriors, viking raiders, and any similarly in-your-face violent types.
 
 ## Advancement
 | Level | XP  | To Hit | Save |
